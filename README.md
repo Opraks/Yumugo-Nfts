@@ -1,7 +1,7 @@
 <h1>What is Yumugo Nft's</h1>
 
-<h2><u>Definition</u></h2>
-<h2><u>Inside Blockchain Technology (Ai)</u></h2>
+<h2><u>How Did the Idea Start?</u></h2>
+<h2><u>What is the Purpose of Yumugo Nft's?</u></h2>
 <h2><u>Usage</u></h2>
 <h2><u>Market Value</u></h2>
 
