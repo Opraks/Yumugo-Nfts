@@ -1,5 +1,5 @@
 <h1>WHAT IS YUMUGO NFT'S</h1>
-
+<img src="ornek.jpg" alt="Örnek Resim"/>
 <h2>#How Did It Start?</h2>
 <h2>#What Is The Purpose Of Yumugo Nft's?</h2>
 <h2>#Exchanges Listing Yumugo NFTs.</h2>
