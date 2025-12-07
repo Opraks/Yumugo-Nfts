@@ -1,7 +1,7 @@
 <h1>What is Yumugo Nft's</h1>
 
-<h2>How Did the Idea Start?</h2>
-<h2>What is the Purpose of Yumugo Nft's?</h2>
+<h2>How Did The Idea Start?</h2>
+<h2>What Is The Purpose Of Yumugo Nft's?</h2>
 <h2>Usage</h2>
 <h2>Market Value</h2>
 
