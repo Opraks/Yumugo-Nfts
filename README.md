@@ -4,6 +4,8 @@
 <h2>What Is The Purpose Of Yumugo Nft's?</h2>
 <h2>Listed NFT Exchanges</h2>
 <h2>Other Links</h2>
-<b>Yumugo's Opensea Account:</b> <a href="https://opensea.io/0x38c9e3487ce654d67517abc9610c372d1dbb8c72?collectionSlugs=opraks-yumugo-v-1" target="_blank"> Opraks</a>
+<b>Yumugo's Opensea Account:</b> <a href="https://opensea.io/0x38c9e3487ce654d67517abc9610c372d1dbb8c72?collectionSlugs=opraks-yumugo-v-1" target="_blank"> Opensea</a>
+<b>Yumugo's X Account:</b> <a href="https://x.com/BerkiSait52105" target="_blank">X</a>
 <hr>
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
+https://x.com/BerkiSait52105
