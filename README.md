@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1027,28321,2396,6210,4943,6993" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
-
 <h1>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</h1>
 
 <h2><u>Definition</u></h2>
