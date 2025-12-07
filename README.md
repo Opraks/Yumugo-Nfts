@@ -1,4 +1,4 @@
-<h1>WHAT IS YUMUGO NFT'S</h1>
+<h1>What is Yumugo Nft'sS</h1>
 
 <h2><u>Definition</u></h2>
 <h2><u>Inside Blockchain Technology (Ai)</u></h2>
