@@ -1,4 +1,4 @@
-<h1>WHAT IS ARTIFICIAL INTELLIGENCE (AI) IN TECHNOLOGY?</h1>
+<h1>WHAT IS YUMUGO NFT'S</h1>
 
 <h2><u>Definition</u></h2>
 <b>Artificial intelligence</b> is an artificial operating system that exhibits higher cognitive functions or autonomous behaviors typical of human intelligence, according to an idealized perspective. This system should have the ability to perceive, learn, connect multiple concepts, think, reason (state), solve problems, communicate, and make decisions. In addition, this artificial intelligence system should be able to produce reactions from its thoughts <b>(agent artificial intelligence)</b> and physically express these reactions.
