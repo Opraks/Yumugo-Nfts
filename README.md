@@ -1,4 +1,4 @@
-<h1>What is Yumugo Nft's</h1>
+<h1>WHAT IS YUMUGO NFT'S</h1>
 
 <h2>#How Did It Start?</h2>
 <h2>#What Is The Purpose Of Yumugo Nft's?</h2>
