@@ -9,4 +9,3 @@
 - <b>Yumugo's Discord Account:</b> <a href="https://x.com/BerkiSait52105" target="_blank">Discord</a>
 <hr>
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
-https://discord.gg/hNwuSVHz
