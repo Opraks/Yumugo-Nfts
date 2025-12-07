@@ -6,6 +6,9 @@
 <h2>#How Did It Start?</h2>
 <h2>#What Is The Purpose Of Yumugo Nft's?</h2>
 <h2>#Exchanges Listing Yumugo NFTs.</h2>
+- Yumugo NFTs are currently listed on the <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a> and <a href="https://web3.okx.com/ul/7dEsSLC" target="_blank"><u>OKX</u></a> exchanges. You can purchase them from these websites.
+
+
 
 <h2>#Communication Links</h2>
 - <b>Yumugo:</b> <a href="https://opensea.io/0x38c9e3487ce654d67517abc9610c372d1dbb8c72?collectionSlugs=opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
