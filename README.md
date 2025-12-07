@@ -1,9 +1,9 @@
 <h1>What is Yumugo Nft's</h1>
 
-<h2><u>How Did the Idea Start?</u></h2>
-<h2><u>What is the Purpose of Yumugo Nft's?</u></h2>
-<h2><u>Usage</u></h2>
-<h2><u>Market Value</u></h2>
+<h2>How Did the Idea Start?</h2>
+<h2>What is the Purpose of Yumugo Nft's?</h2>
+<h2>Usage</h2>
+<h2>Market Value</h2>
 
 <b>Opensea Yumugo:</b> <a href="https://opensea.io/0x38c9e3487ce654d67517abc9610c372d1dbb8c72?collectionSlugs=opraks-yumugo-v-1" target="_blank"> Opraks</a>
 <hr>
