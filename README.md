@@ -4,7 +4,7 @@
 - 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start ?</h1>
 - I can start with the historical year 2024. The inclusion of artificial intelligence and its products in the developing Blockchain Technology and the fact that it exhibits a new approach drew me directly to the drink as it was a subject I was already following. 
-The Yumugo initiative developed spontaneously during this process. Although I have created many different ideas and models before, I chose to start with Yumugo.
+The Yumugo initiative developed spontaneously during this process. Although I have created many different ideas and models before, I chose to start with Yumugo. I expect positive contributions from you to make this idea successful and achieve something. Thank you all in advance. <b><i>by.opraks</i></b>
  
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Exchange%20Icon.png?raw=true" alt="Örnek Resim"/> Exchanges Listing Yumugo NFT's.</h1>
