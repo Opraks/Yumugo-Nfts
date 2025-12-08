@@ -1,3 +1,5 @@
+<a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=6kbzmh6nlsgkyjk6en6bzpj8xr1zygpk" border="0" title="web counter" alt="web counter"></a>
+
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1027,28321,6210,2396,30495,825" currency="USD" theme="light" transparent="true" show-symbol-logo="true"></div>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Hi%20Icon.png?raw=true" alt="Örnek Resim"/> Welcome To Yumugo's Webpage =))</h1>
@@ -30,4 +32,3 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
-<a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=6kbzmh6nlsgkyjk6en6bzpj8xr1zygpk" border="0" title="web counter" alt="web counter"></a>
