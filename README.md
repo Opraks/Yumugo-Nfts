@@ -14,9 +14,9 @@
 You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord Community</u></a> and stay in touch with <b>Yumugo</b> as he continues development. You can also follow <b>Yumugo</b> on <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a> to stay up to date.
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Link%20Icon.png?raw=true" alt="Örnek Resim"/> Communication Links</h1>
-- <b>Yumugo:</b> <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
-- <b>Yumugo:</b> <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
-- <b>Yumugo:</b> <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
+- Opraks Nft's Yumugo: <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
+- Opraks Nft's Yumugo: <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
+- Opraks Nft's Yumugo: <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 
 <hr>
 <center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center>
