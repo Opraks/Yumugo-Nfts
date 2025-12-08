@@ -32,3 +32,8 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
+
+<div id="frame" style="width: 970px;margin: auto;z-index: 99998;height: auto">
+          <iframe data-aa='2420035' src='//ad.a-ads.com/2420035/?size=970x90&background_color=ffffff'
+                            style='border:0; padding:0; width:970px; height:90px; overflow:hidden;display: block;margin: auto'></iframe>
+        </div>
