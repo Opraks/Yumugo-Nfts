@@ -5,10 +5,14 @@
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Hi%20Icon.png?raw=true" alt="Örnek Resim"/> Welcome To Yumugo's Webpage =))</h1>
 <center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Opensea%20List.PNG?raw=true" alt="Örnek Resim"/></center>
 
-
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's ?</h1>
 - <b>Yumugo</b> is a friend egg. He is always a cheerful and sweet friend. During its creation, the focus was on what an egg could do. It was designed with <b>Pixel Art</b> techniques, <b>4096x4096px</b> in <b>PNG</b> size. Each one is a unique and singular example. Approximate file sizes are between <b>150Kb and 800Kb.</b> In its features, colors used and accessory information are available. 
 - I wanted to set a reasonable price, I think this is enough to start with. I plan to develop <b>Yumugo v.2</b> after <b>Yumugo v.1</b> in the future. Lastly, I hope Yumugo brings you happiness...<font color="brown"><u><b><i><u>by.opraks</u></i></b></u></font> 
+
+<div id="frame" style="width: 970px;margin: auto;z-index: 99998;height: auto">
+          <iframe data-aa='2420035' src='//ad.a-ads.com/2420035/?size=970x90&background_color=ffffff'
+                            style='border:0; padding:0; width:970px; height:90px; overflow:hidden;display: block;margin: auto'></iframe>
+        </div>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start ?</h1>
 - I can start with the historical year <b>2024.</b> The inclusion of artificial intelligence and its products in the developing <b>Blockchain Technology</b> and the fact that it exhibits a new approach drew me directly to the drink as it was a subject I was already following.
@@ -24,6 +28,13 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 - Opraks Nft's Yumugo: <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
 - Opraks Nft's Yumugo: <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 - My Email Address: <font color="#8ECAE6">saitberkey@gmail.com</font> 
+
+
+<div id="frame" style="width: 970px;margin: auto;z-index: 99998;height: auto">
+          <iframe data-aa='2420035' src='//ad.a-ads.com/2420035/?size=970x90&background_color=ffffff'
+                            style='border:0; padding:0; width:970px; height:90px; overflow:hidden;display: block;margin: auto'></iframe>
+        </div>
+
 <hr>
 <h1><center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center></h1>
 
@@ -32,8 +43,3 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
-
-<div id="frame" style="width: 970px;margin: auto;z-index: 99998;height: auto">
-          <iframe data-aa='2420035' src='//ad.a-ads.com/2420035/?size=970x90&background_color=ffffff'
-                            style='border:0; padding:0; width:970px; height:90px; overflow:hidden;display: block;margin: auto'></iframe>
-        </div>
