@@ -16,10 +16,8 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 - <b>Yumugo:</b> <a href="https://opensea.io/0x38c9e3487ce654d67517abc9610c372d1dbb8c72?collectionSlugs=opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
 - <b>Yumugo:</b> <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
 - <b>Yumugo:</b> <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
+
 <hr>
-
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=67540d39231a330012e9230e&product=sticky-share-buttons&source=platform" async="async"></script>
-
 <center>
 <a href="https://opraks.github.io/Yumugo-Nfts/" target="_blank">@Opraks.github.webpage/</a>
 </center>
