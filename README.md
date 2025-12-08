@@ -2,8 +2,7 @@
 <img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Banner.png?raw=true" alt="Örnek Resim"/>
 </center>
 
-<img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Banner.png?raw=true" alt="Örnek Resim"/>
-<h2>#What Is Yumugo Nft's?</h2>
+<img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/><h2>#What Is Yumugo Nft's?</h2>
 <h2>#How Did It Start?</h2>
 
 <h2>#Exchanges Listing Yumugo NFTs.</h2>
