@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script><div id="coinmarketcap-widget-marquee" coins="1027,28321,6210,2396,30495,825" currency="USD" theme="light" transparent="true" show-symbol-logo="true"></div>
+
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Hi%20Icon.png?raw=true" alt="Örnek Resim"/> Welcome To Yumugo's Webpage =))</h1>
 <center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Opensea%20List.PNG?raw=true" alt="Örnek Resim"/></center>
 
