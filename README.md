@@ -27,3 +27,5 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 <center>
 <a href="https://opraks.github.io/Yumugo-Nfts/" target="_blank">@Opraks.github.webpage/</a>
 </center>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=63dff70bb0cc4a001220e5e0&product=sticky-share-buttons' async='async'></script>
