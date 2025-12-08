@@ -23,7 +23,7 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 - Opraks Nft's Yumugo: <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 - My Email Address: <font color="#8ECAE6">saitberkey@gmail.com</font> 
 
-<center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center>
+<h1><center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center></h1>h1>
 
 <center>
 <a href="https://opraks.github.io/Yumugo-Nfts/" target="_blank">@Opraks.github.webpage/</a>
