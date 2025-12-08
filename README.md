@@ -1,7 +1,9 @@
 <img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's ?</h1>
-- 
+- Yumugo is a friend egg. He is always a cheerful and sweet friend. During its creation, the focus was on what an egg could do.
+
+
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start ?</h1>
 - I can start with the historical year <b>2024.</b> The inclusion of artificial intelligence and its products in the developing <b>Blockchain Technology</b> and the fact that it exhibits a new approach drew me directly to the drink as it was a subject I was already following.
 
