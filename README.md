@@ -3,7 +3,7 @@
 </center>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's?</h1>
-<h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Start%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start?</h1>
+<h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start?</h1>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Exchange%20Icon.png?raw=true" alt="Örnek Resim"/> Exchanges Listing Yumugo NFTs.</h1>
 - <b>Yumugo NFT's</b> are currently listed on the <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a> and <a href="https://web3.okx.com/ul/7dEsSLC" target="_blank"><u>OKX</u></a> <b>Exchanges.</b> You can purchase them from these <b>Websites.</b>
