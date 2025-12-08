@@ -1,7 +1,7 @@
 <img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's ?</h1>
-- Yumugo is a friend egg. He is always a cheerful and sweet friend. During its creation, the focus was on what an egg could do.
+- Yumugo is a friend egg. He is always a cheerful and sweet friend. During its creation, the focus was on what an egg could do. It was designed with Pixel Art techniques, 4096x4096px in PNG size.
 
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start ?</h1>
