@@ -18,7 +18,7 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 - <b>Yumugo:</b> <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
 - <b>Yumugo:</b> <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 
-<center><img src="" alt="Örnek Resim"/></center>
+<center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center>
 
 <hr>
 <center>
