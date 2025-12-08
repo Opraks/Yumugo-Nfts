@@ -1,5 +1,6 @@
-<h1>Welcome To Yumugo's Webpage =))</h1>
+<h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Hi%20Icon.png?raw=true" alt="Örnek Resim"/> Welcome To Yumugo's Webpage =))</h1>
 <center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Opensea%20List.PNG?raw=true" alt="Örnek Resim"/></center>
+
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's ?</h1>
 - <b>Yumugo</b> is a friend egg. He is always a cheerful and sweet friend. During its creation, the focus was on what an egg could do. It was designed with <b>Pixel Art</b> techniques, <b>4096x4096px</b> in <b>PNG</b> size. Each one is a unique and singular example. Approximate file sizes are between <b>150Kb and 800Kb.</b> In its features, colors used and accessory information are available. 
