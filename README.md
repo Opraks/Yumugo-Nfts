@@ -30,3 +30,4 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
+<a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=6kbzmh6nlsgkyjk6en6bzpj8xr1zygpk" border="0" title="web counter" alt="web counter"></a>
