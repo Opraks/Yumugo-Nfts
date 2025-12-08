@@ -3,7 +3,8 @@
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's ?</h1>
 - 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start ?</h1>
-- I can start with the historical year <b>2024.</b> The inclusion of artificial intelligence and its products in the developing <b>Blockchain Technology</b> and the fact that it exhibits a new approach drew me directly to the drink as it was a subject I was already following. 
+- I can start with the historical year <b>2024.</b> The inclusion of artificial intelligence and its products in the developing <b>Blockchain Technology</b> and the fact that it exhibits a new approach drew me directly to the drink as it was a subject I was already following.
+
 - The <b>Yumugo</b> initiative developed spontaneously during this process. Although I have created many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect positive contributions from you to make this idea successful and achieve something. Thank you all in advance. <b><i><u>by.opraks</u></i></b>
  
 
