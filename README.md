@@ -1,4 +1,4 @@
-<img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Banner.png?raw=true" alt="Örnek Resim"/>
+<img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/>
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/What%20Icon.png?raw=true" alt="Örnek Resim"/> What Is Yumugo Nft's?</h1>
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Starts%20Icon.png?raw=true" alt="Örnek Resim"/> How Did It Start?</h1>
