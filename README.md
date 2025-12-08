@@ -18,9 +18,6 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 <h2>#OpenSea List Page</h2>
 <center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugo%20Opensea%20List.PNG?raw=true" alt="Örnek Resim"/></center>
 
-<h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Team%20Icon.jpg?raw=true" alt="Örnek Resim"/> Yumugo's Team</h1>
-<center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Team.jpg?raw=true" alt="Örnek Resim"/></center>
-
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Link%20Icon.png?raw=true" alt="Örnek Resim"/> Communication Links</h1>
 - <b>Yumugo:</b> <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
 - <b>Yumugo:</b> <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
