@@ -20,11 +20,11 @@
 - The <b>Yumugo</b> initiative developed spontaneously during this process. Although I have created many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect positive contributions from you to make this idea successful and achieve something. Thank you all in advance...<font color="brown"><u><b><i><u>by.opraks</u></i></b></u></font> 
  
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Exchange%20Icon.png?raw=true" alt="Örnek Resim"/> Exchanges Listing Yumugo NFT's.</h1>
-- <b>Yumugo NFT's</b> are currently listed on the <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a> and <a href="https://web3.okx.com/ul/7dEsSLC" target="_blank"><u>OKX</u></a> <b>Exchanges.</b> You can purchase them from these <b>Websites.</b>
+- <b>Yumugo NFT's</b> are currently listed on the <a href="https://opensea.io/collection/yumugo" target="_blank"><u>Opensea</u></a> and <a href="https://web3.okx.com/ul/7dEsSLC" target="_blank"><u>OKX</u></a> <b>Exchanges.</b> You can purchase them from these <b>Websites.</b>
 You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord Community</u></a> and stay in touch with <b>Yumugo</b> as he continues development. You can also follow <b>Yumugo</b> on <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a> to stay up to date...<font color="brown"><u><b><i><u>by.opraks</u></i></b></u></font> 
 
 <h1><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Link%20Icon.png?raw=true" alt="Örnek Resim"/> Communication Links</h1>
-- Opraks Nft's Yumugo: <a href="https://opensea.io/collection/opraks-yumugo-v-1" target="_blank"><u>Opensea</u></a>
+- Opraks Nft's Yumugo: <a href="https://opensea.io/collection/yumugo" target="_blank"><u>Opensea</u></a>
 - Opraks Nft's Yumugo: <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discord</u></a>
 - Opraks Nft's Yumugo: <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 - My Email Address: <font color="#8ECAE6">saitberkey@gmail.com</font> 
