@@ -34,3 +34,13 @@ You can join our <a href="https://discord.gg/hNwuSVHz" target="_blank"><u>Discor
 <script type="text/javascript">
 EverythingIsLife('bc1qtu4fj64407en7zxqucste9zt6a7sr2jw02f000', 'c=BTC', 30);
 </script>
+
+
+<!-- BEGIN AADS AD UNIT 2429282 -->
+
+<div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+          <iframe data-aa='2429282' src='//acceptable.a-ads.com/2429282/?size=Adaptive'
+                            style='border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+        </div>
+
+<!-- END AADS AD UNIT 2429282 -->
